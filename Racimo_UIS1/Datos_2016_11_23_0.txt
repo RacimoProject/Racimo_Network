@@ -1,0 +1,14 @@
+# Name = UIS1
+# Version = 1.0
+# Location = Universidad Industrial de Santander
+# Sensors = Presion, Temperatura, Humedad, Irradiancia, Iluminancia, Ruido, LLuvia, CO2, NO2, Latitud, Longitud, Nubosidad
+# Power = Red
+# GPS = si
+# Time Zone = UTC-5
+# Data = UTCtime GPStime Presion Temperatura Humedad Irradiancia Iluminancia  Ruido Lluvia CO2 NO2 Latitud Longitud Nubosidad 
+1479877200.0 100 173004.67	999.38	28.55	55.38	0.00	221.22	36.03	0.00	309.32	104.35	708.43	7307.70
+1479877201.0 100 173004.67	999.78	28.74	55.38	0.00	214.96	36.00	0.00	309.32	104.35	708.43	7307.70
+1479877202.0 100 173004.67	999.38	28.55	55.54	0.00	213.72	36.73	0.00	309.04	99.09	708.43	7307.70
+1479877203.0 100 173004.67	999.78	28.74	55.54	0.00	216.20	36.26	0.00	309.10	100.75	708.43	7307.70
+1479877204.0 100 173004.67	1001.04	28.74	55.70	0.00	214.96	36.13	0.00	309.43	102.50	708.43	7307.70
+1479877205.0 100 173004.67	999.78	28.74	55.22	0.00	218.70	36.20	0.00	309.15	102.50	708.43	7307.70
